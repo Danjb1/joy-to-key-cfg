@@ -2,54 +2,23 @@
 
 ## Game Setup
 
- - *Invert X-axis:* true
+ - **Invert X-axis:** Yes
 
- - *Invert Y-axis:* true
+ - **Invert Y-axis:** Yes
 
-## PC Controls
+## Controls
 
-*These are just the defaults.*
+*The PC controls listed here are just the defaults. The gamepad controls are described using PlayStation buttons.*
 
- - **Move:** WASD / Arrows
-
- - **Look:** Mouse
-
- - **Jog / fast rewind:** Shift / Right Shift
-
- - **Rewind:** Right Mouse Button / R
-
- - **Skip cutscene:** Space / Num Pad 0
-
- - **Open pause menu:** Escape / Backspace
-
- - **Open Journal menu:** Tab / End
-
- - **Interact:** Left Mouse Button / C
-
- - **Reset camera:** Middle Mouse Button / ?
-
- - **Quick rewind:** Control / Right Control
-
-## Gamepad Controls
-
-*These are described using PlayStation buttons.*
-
- - **Move:** Left stick
-
- - **Look:** Right stick / D-pad (slower)
-
- - **Jog / fast rewind:** L1
-
- - **Rewind:** X
-
- - **Skip cutscene:** Circle
-
- - **Open pause menu:** Start
-
- - **Open Journal menu:** Select
-
- - **Interact:** R1
-
- - **Reset camera:** Triangle
-
- - **Quick rewind:** Square
+| Action                | PC                      | Gamepad                      |
+| --------------------- | ----------------------- | ---------------------------- |
+| **Move**              | WASD / Arrow Keys       | Left stick                   |
+| **Look**              | Mouse                   | Right stick / D-pad (slower) |
+| **Jog / fast rewind** | Shift / Right Shift     | L1                           |
+| **Rewind**            | Right Mouse Button / R  | X                            |
+| **Skip cutscene**     | Space / Num Pad 0       | Circle                       |
+| **Open pause menu**   | Escape / Backspace      | Start                        |
+| **Open Journal menu** | Tab / End               | Select                       |
+| **Interact**          | Left Mouse Button / C   | R1                           |
+| **Reset camera**      | Middle Mouse Button / ? | Triangle                     |
+| **Quick rewind**      | Control / Right Control | Square                       |
